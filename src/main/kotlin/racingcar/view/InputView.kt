@@ -1,6 +1,7 @@
 package racingcar.view
 
 import camp.nextstep.edu.missionutils.Console
+import racingcar.utils.Validator
 
 class InputView {
   fun getUserInput(): String {
